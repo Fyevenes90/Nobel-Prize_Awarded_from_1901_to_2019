@@ -10,3 +10,4 @@
   - Categories in which a man have received a Nobel Prize
   - Categories in which a woman have received a Nobel Prize
   - Countries in which a woman have received a Nobel Prize
+  - Categories where a men, woman and organization have received an award
