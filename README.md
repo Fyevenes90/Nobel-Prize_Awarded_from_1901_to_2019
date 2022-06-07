@@ -2,4 +2,4 @@
 In this project I practice visualizations using libraries like:
   *ploty.express
   *seaborn
-  *Pandas
+  *Pandasb
