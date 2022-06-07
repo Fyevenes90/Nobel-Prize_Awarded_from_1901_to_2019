@@ -5,7 +5,7 @@
   - Pandas
   - plotly.graph_objects
 
-# The idea of the project is to play around with the different visualization, I will do some checks in the data to make sure there's not null data and then we will conduct some visualizations:
+#### The idea of the project is to play around with the different visualization, I will do some checks in the data to make sure there's not null data and then we will conduct some visualizations:
   - In general categories in which Nobel prize have been received
   - Categories in which a man have received a Nobel Prize
   - Categories in which a woman have received a Nobel Prize
