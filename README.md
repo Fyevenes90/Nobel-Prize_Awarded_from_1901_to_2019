@@ -1,5 +1,5 @@
 ## Nobel-Prize_Awarded_from_1901_to_2019
-# In this project I practice visualizations with the Nobel prize awarded data from 1901 to 2019, I will be using libraries like:
+#### In this project I practice visualizations with the Nobel prize awarded data from 1901 to 2019, I will be using libraries like:
   - ploty.express
   - seaborn
   - Pandas
